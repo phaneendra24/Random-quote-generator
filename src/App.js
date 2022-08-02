@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import axios from 'axios'
 
@@ -10,6 +10,7 @@ function App() {
     .then(
       response=> setData(data => data=response.data.slip.advice)
     )
+    .catch((error)=>alert(error))
   }
   getData()
   return (
