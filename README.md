@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#tailwind
+All the styling in the site is done using tailwind css only and the font is from google fonts 
+
+#link-
+you can take a look at my live site at - https://quick-random-quote-generator.netlify.app
